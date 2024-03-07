@@ -1,0 +1,47 @@
+*,
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+canvas {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2vh;
+}
+.white{
+    color: white;
+    line-height: 1.4705882353;
+    text-align: center;
+    font-weight: 600;
+    letter-spacing: -0.022em;
+    font-family: SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.grey{
+    color: rgb(166, 166, 166);
+    text-align: center;
+    font-weight: 600;
+    letter-spacing: -0.022em;
+    font-family: SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.btn{
+    color: black;
+    border-radius: 30px;
+    padding: 10px;
+    background-color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    scale: 100%;
+    transition: .2s ease-in-out;
+}
+.btn:hover{
+    transition: .2s ease-in-out;
+    scale: 103%;
+    cursor: pointer;
+    border: none;
+    outline: none;
+}
