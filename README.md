@@ -54,9 +54,5 @@ git clone (This repo link)
 annnd thats it!!
 you can just open *index.html* wait for the model to load and there you go!
 
-## Screenshots
-![App Screenshot](
-
-    https://firebasestorage.googleapis.com/v0/b/readbaas.appspot.com/o/Screenshot%202024-03-07%20164649.png?alt=media&token=7e7b21a0-7ac6-4503-8977-98aaaf379a16 
-    
-    "Optional Title")
+##ScreenShot!
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/readbaas.appspot.com/o/Screenshot%202024-03-07%20164649.png?alt=media&token=7e7b21a0-7ac6-4503-8977-98aaaf379a16 "Optional Title")
